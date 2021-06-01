@@ -61,7 +61,7 @@ header h1 {
   text-align: center;
 }
 #lists a:hover {
-  background: #222;
+  background: gray;
 }
 
 main {
